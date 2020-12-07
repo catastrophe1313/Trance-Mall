@@ -12,13 +12,13 @@
 本商城主要以web网页的形式进行运营。使用者包括外出旅游游客，出差工作人员，出国留学工作人员，户外探险爱好者等，这些人员外出频率较高十分契合我们的产品提供，是投保的最大用户人群。
 
 #### 软件架构
-[软件架构说明](https://images.gitee.com/uploads/images/2020/1202/205136_df048ff5_5131179.png "架构.png") 
+![软件架构说明](https://images.gitee.com/uploads/images/2020/1202/205136_df048ff5_5131179.png "架构.png") 
 
 #### 系统用例模型
-[系统用例模型](https://images.gitee.com/uploads/images/2020/1208/000937_7ef5d310_6517781.png "安行旅游保险网上商城项目用例图.png")
+![系统用例模型](https://images.gitee.com/uploads/images/2020/1208/000937_7ef5d310_6517781.png "安行旅游保险网上商城项目用例图.png")
 
 #### E-R图
-[E-R图](https://images.gitee.com/uploads/images/2020/1208/001353_6e8f68de_6517781.png "E-R图.png")
+![E-R图](https://images.gitee.com/uploads/images/2020/1208/001353_6e8f68de_6517781.png "E-R图.png")
 
 #### 安装教程
 
