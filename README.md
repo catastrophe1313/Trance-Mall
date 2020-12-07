@@ -17,6 +17,8 @@
 #### 系统用例模型
 [系统用例模型](https://images.gitee.com/uploads/images/2020/1208/000937_7ef5d310_6517781.png "安行旅游保险网上商城项目用例图.png")
 
+#### E-R图
+[E-R图](https://images.gitee.com/uploads/images/2020/1208/001353_6e8f68de_6517781.png "E-R图.png")
 
 #### 安装教程
 
