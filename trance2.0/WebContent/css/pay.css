@@ -1,0 +1,60 @@
+.card{
+    margin: 50px 300px;
+}
+
+.card-body{
+    padding: 20px;
+}
+
+#price{
+    font-weight: bolder;
+    font-size: 30px;
+    color: rgb(0,123,255);
+}
+
+#pay-card{
+    margin: auto;
+}
+
+#pur{
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    padding: 0px;
+    font-size: 30px;
+}
+
+#submit{
+    text-align: right;
+}
+
+a{
+    color:black;
+    text-align: center;
+}
+
+ul{
+    margin: 0px auto;
+}
+
+#logo{
+    width: 120px;
+    height: 120px;
+    margin: 0px;
+}
+
+#title{
+    background-color: white;
+}
+
+#type1{
+	background-color:white;
+}
+
+#type2{
+	background-color:white;
+}
+
+#type3{
+	background-color:white;
+}
