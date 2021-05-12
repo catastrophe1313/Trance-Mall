@@ -1,6 +1,7 @@
 package anxing;
 
 import java.io.IOException;
+import java.io.Serializable;
 import java.util.List;
 
 import javax.servlet.ServletException;
@@ -9,7 +10,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-
 import entity.Ins_info;
 
 
@@ -18,7 +18,7 @@ import entity.Ins_info;
  * Servlet implementation class Userlist
  */
 @WebServlet("/dealbuy")
-public class dealbuy extends HttpServlet {
+public class dealbuy extends HttpServlet{
 	private static final long serialVersionUID = 1L;
        
     /**

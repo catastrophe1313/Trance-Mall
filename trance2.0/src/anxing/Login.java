@@ -1,9 +1,6 @@
 package anxing;
 
 import java.io.IOException;
-import java.io.PrintWriter;
-
-import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -42,7 +39,7 @@ public class Login extends HttpServlet {
 					}
 					else {
 						request.setAttribute("input_name", username);
-						request.setAttribute("info", "用户名或密码错误!");
+						request.setAttribute("info", "Wrong username or password!");
 						request.getRequestDispatcher("login.jsp").forward(request, response);
 					}
 				} catch (ServletException e) {
@@ -55,7 +52,7 @@ public class Login extends HttpServlet {
 		}
 		else {
 			request.setAttribute("input_name", username);
-			request.setAttribute("info", "验证码错误!");
+			request.setAttribute("info", "Worng checkcode!");
 			request.getRequestDispatcher("login.jsp").forward(request, response);
 		}
     	

@@ -26,7 +26,6 @@ public class infoedit extends HttpServlet {
     }
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		//锟斤拷锟斤拷锟斤拷锟接︼拷谋锟斤拷锟�
 				request.setCharacterEncoding("utf-8");
 				response.setCharacterEncoding("utf-8");
 				String realname = request.getParameter("realname");
